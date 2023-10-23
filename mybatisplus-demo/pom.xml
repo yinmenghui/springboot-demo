@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>com.baomidou</groupId>
 			<artifactId>mybatis-plus-boot-starter</artifactId>
-			<version>3.3.1</version>
+			<version>3.5.4</version>
 		</dependency>
 		<!-- dynamic-datasource-spring-boot-starter 是一个基于springboot的快速集成多数据源的启动器 -->
 		<dependency>
